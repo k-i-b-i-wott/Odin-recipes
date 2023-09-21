@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+    font: optional;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h1{
+    font-weight: 100;
+    font-style: oblique;
+    font-stretch: semi-condensed;
+    border: 0lh;
+}
+.rockfish
+{
+    background-color: blueviolet;
+    height: 300px;
+    width: 350px;
+    border-radius: 60px;
+}
+.rockfish img{
+    height: 280px;
+    width: 280px;
+    border-radius: 50px;
+    margin-left: 25px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.bottom{
+    margin-left: 40px;
+    font-size: larger;
+    color: hwb(from color h w b);
+    
+}

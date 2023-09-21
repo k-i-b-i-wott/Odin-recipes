@@ -1,0 +1,32 @@
+body
+{
+    background-color: floralwhite;
+    font-size: medium;
+    font-style: oblique;
+}
+h1{
+    font-weight: lighter;
+    text-align: 50px;
+}
+.madame
+{
+  height: 350px;
+  width: 300px;
+  border-radius: 50px;
+  background-color: lawngreen;
+}
+.madame img 
+{
+   height: 300px;
+   width: 290px;
+   border-radius: 50px;
+   margin-top: 15px;
+}
+.footer{
+  text-overflow: clip;
+  font-style: inherit;
+  font-weight: bolder;
+  text-underline-offset: none;
+  margin-left: 50px;
+  font-size: xx-large;
+}

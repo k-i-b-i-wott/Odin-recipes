@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background-position: center;
+    
+}
+h1{
+    font-weight: bolder;
+    font-stretch: semi-condensed;
+}
+.pic1 img{
+    width: 300px;
+    height: 250px;
+    
+}

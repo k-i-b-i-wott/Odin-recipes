@@ -1,0 +1,98 @@
+ body{
+    background-color: rgb(32, 40, 30);
+    font-size: x-large;
+    page-orientation: portrait;
+    font-style: italic;
+    text-decoration: double;
+
+
+ }
+.chicken {
+   background-color: antiquewhite;
+  width:300px ;
+  height: 350px;
+ 
+}
+.chicken img{
+   height: 300px;
+   width: 300px;
+   border-radius: 50px;
+
+}
+.coffee{
+   background-color: aqua;
+   width: 300px;
+   height: 350px;
+   margin-left: 350px;
+   margin-top: -350px;
+}
+.coffee img{
+   height: 300px;
+   width: 300px;
+   border-radius: 50px;
+}
+.coffee {
+   text-align: center;
+   text-underline-offset: none;
+   
+}
+.rockfish{
+   height: 350px;
+   width:300px ;
+   margin-left: 700px;
+   margin-top: -350px;
+   background-color: aquamarine;
+   text-align: center;
+}
+.rockfish img
+{
+ border-radius: 50px;
+ height: 300px;
+ width: 300px;
+}
+.croque{
+   background-color: rgb(33, 161, 170);
+   height: 350px;
+   width: 300px;
+   margin-left: 350px;
+   margin-top: -330px;
+   text-align: center;
+
+}
+.croque img
+{
+  height: 300px;
+  width: 300px;
+  border-radius: 50px;
+
+
+}
+h1{
+   color: #fff;
+}
+h2{
+   color: chartreuse;
+}
+.anime{
+   height: 350px;
+   width: 300px;
+   margin-left: 600px;
+   border-radius: 20px;
+   margin-top: 50px;
+   background-color: chartreuse;
+}
+.anime img{
+   height: 300px;
+   width: 250px;
+   border-radius: 70px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+.meal
+{
+   font-size: medium;
+   font-weight: bolder;
+   margin-top: -5px;
+   text-align: center;
+   font-style: oblique;
+}

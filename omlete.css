@@ -1,0 +1,32 @@
+body
+{
+    background-color: azure;
+    background-position: center;
+    font-family: fantasy;
+    font-size: larger;
+
+}
+h1
+{
+font-weight: bolder;
+font-size: larger;
+font-style: oblique;
+}
+ol{
+    font-style: italic;
+}
+ul
+{
+    font-style: oblique;
+}
+.bacon img
+{
+   border-radius: 50px;
+   height: 300px;
+   width: 300px;
+   position: static;
+}
+.home{
+    margin-left: 20px;
+    font-size: larger;
+}
